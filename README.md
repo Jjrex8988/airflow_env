@@ -3,7 +3,7 @@ airflow_operators_dependencies_branching_taskgroup_labels
 
 
 
-# 0) Why WSL
+# WHY WSL V2
 
 Airflow doesn’t run natively on Windows. We use **WSL2 + Ubuntu** so Airflow can run on Linux while you keep your Windows workflow.
 
